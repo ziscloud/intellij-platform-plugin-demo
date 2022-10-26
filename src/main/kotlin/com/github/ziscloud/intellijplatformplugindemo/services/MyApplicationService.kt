@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ziscloud.intellijplatformplugindemo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ziscloud.intellijplatformplugindemo.MyBundle
 
 class MyApplicationService {
 
